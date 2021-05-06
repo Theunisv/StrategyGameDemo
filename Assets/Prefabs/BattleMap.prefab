@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &76817154866672457
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 76817154866672459}
+  - component: {fileID: 76817154866672452}
+  - component: {fileID: 76817154866672453}
+  m_Layer: 0
+  m_Name: BattleMap
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &76817154866672459
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 76817154866672457}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 6.4, y: 4.8}
+  m_SizeDelta: {x: 12.8, y: 9.6}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &76817154866672452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 76817154866672457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23855c30607c10c4f946880c8ad58819, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _allMages:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _magesBody:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  magePreFabs:
+  - {fileID: 7351904449251089995, guid: 65d1db4f72e80f144867532e59f8d0b3, type: 3}
+  - {fileID: 4948428840961292761, guid: b151bcb55ac62df4eb1f8d7c8fc28b50, type: 3}
+  - {fileID: 4710655462591934822, guid: f5e808b1dc5b0ed4aacd75dac7265283, type: 3}
+  - {fileID: 881083268265440179, guid: 6056dedc571ce4e4ea0118f44e200a11, type: 3}
+  - {fileID: 3489635936564220258, guid: 03015bdb9838e0a40b910f9bf82bd30f, type: 3}
+  - {fileID: 4492688402811736042, guid: 20b3aa400bf856e478eba73a82ce9198, type: 3}
+  _destructableObjects:
+  - {fileID: 3018959115995922314, guid: 68fe2d0e55ea70e4c9e319bcb77f0341, type: 3}
+  - {fileID: 6447723281463362767, guid: 02fe5bca36d3db44183f6fce07b41776, type: 3}
+  - {fileID: 2057975131291335663, guid: 6c48bbfb8f09e674fa2f84360418a63a, type: 3}
+  _blockObjects:
+  - {fileID: 226418176694495747, guid: 2dac6ef11b22a7443a3713736bcbda3e, type: 3}
+  - {fileID: 0}
+  mapBackGround: {fileID: 6176417063211342412, guid: 5fc8d8681acad894cafe8a6076a8160a,
+    type: 3}
+--- !u!114 &76817154866672453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 76817154866672457}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e714ae6142bb9647b51012cfabfeb58, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveTile: {fileID: 569655970515583798, guid: de50245e7405b2740bfbdecfe604e1ec, type: 3}
+  moveTileHighlighted: {fileID: 7000709452709401091, guid: 5b43862f553a3c342b5fb6ca9909c721,
+    type: 3}

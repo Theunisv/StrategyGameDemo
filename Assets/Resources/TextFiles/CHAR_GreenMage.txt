@@ -1,0 +1,38 @@
+Green Mage
+100
+100
+20
+15
+10
+100
+100
+Poisondart
+Healingball
+8
+0
+
+Green Mage
+100
+100
+20
+15
+10
+100
+100
+Poisondart
+Healingball
+8
+0
+
+Green Mage
+100
+100
+20
+15
+10
+100
+100
+Poisondart
+Healingball
+8
+0

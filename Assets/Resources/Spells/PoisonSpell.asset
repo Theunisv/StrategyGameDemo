@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df7989224d8d3614fa18b50913b6adcd, type: 3}
+  m_Name: PoisonSpell
+  m_EditorClassIdentifier: 
+  splName: Poison Touch
+  splSprite: {fileID: 21300000, guid: bc753be05eec3214089c69d0f28b5284, type: 3}
+  splSound: {fileID: 8300000, guid: b82aece6ade969b4c88efe7628166ebf, type: 3}
+  splBaseCoolDown: 2
+  splRemainingCooldown: 0
+  canTargetAllies: 0
+  canTargetEnemies: 1
+  areaOfEffect: 1
+  splDescription: Poison the target enemy, damaging them over the next few turns.
+  splManaCost: 20
+  spellRange: 10
+  splPrefab: {fileID: 0}
+  spellPower: 15
+  DebuffString: PoisonEffect
+  debuffPreFab: {fileID: 3183703774615127968, guid: 7aefeb361e62a1448a7a5ae0e70fa982,
+    type: 3}
+  explosionPreFab: {fileID: 5221544090266951146, guid: 8f1efb60b12ffd846b53a78396d04c9d,
+    type: 3}
+  splDuration: 3
+  laserColor: {r: 1, g: 1, b: 1, a: 1}

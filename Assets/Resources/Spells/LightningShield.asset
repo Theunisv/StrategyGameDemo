@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df7989224d8d3614fa18b50913b6adcd, type: 3}
+  m_Name: LightningShield
+  m_EditorClassIdentifier: 
+  splName: Lightning Shield
+  splSprite: {fileID: 21300000, guid: 6bf332b3b0aaa674789ff5b15798cbfc, type: 3}
+  splSound: {fileID: 8300000, guid: 923bce2eb2781374aa0bf46e37d88fa5, type: 3}
+  splBaseCoolDown: 4
+  splRemainingCooldown: 0
+  canTargetAllies: 1
+  canTargetEnemies: 0
+  areaOfEffect: 0
+  splDescription: Summon a lightning shield that surrounds the target ally, absorbing
+    damage received.
+  splManaCost: 50
+  spellRange: 10
+  splPrefab: {fileID: 0}
+  spellPower: 40
+  DebuffString: None
+  splDuration: 0
+  laserColor: {r: 1, g: 1, b: 1, a: 1}

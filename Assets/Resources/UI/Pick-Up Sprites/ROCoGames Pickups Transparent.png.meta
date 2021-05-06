@@ -1,0 +1,5623 @@
+fileFormatVersion: 2
+guid: 66e1284a9856e804ab5540d0bd87d315
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5289055289823646185
+    second: ROCoGames Pickups Transparent_0
+  - first:
+      213: -5991008891552420523
+    second: ROCoGames Pickups Transparent_1
+  - first:
+      213: 3015564862774661333
+    second: ROCoGames Pickups Transparent_2
+  - first:
+      213: -6552139368133034674
+    second: ROCoGames Pickups Transparent_3
+  - first:
+      213: 2794565924932004891
+    second: ROCoGames Pickups Transparent_4
+  - first:
+      213: 4275933769390466395
+    second: ROCoGames Pickups Transparent_5
+  - first:
+      213: -2143888110809916314
+    second: ROCoGames Pickups Transparent_6
+  - first:
+      213: -5647867457485661744
+    second: ROCoGames Pickups Transparent_7
+  - first:
+      213: 3102720045673418479
+    second: ROCoGames Pickups Transparent_8
+  - first:
+      213: 7743415334729598255
+    second: ROCoGames Pickups Transparent_9
+  - first:
+      213: 1413771036048229740
+    second: ROCoGames Pickups Transparent_10
+  - first:
+      213: 6947295162054545439
+    second: ROCoGames Pickups Transparent_11
+  - first:
+      213: -2077526259295946585
+    second: ROCoGames Pickups Transparent_12
+  - first:
+      213: -1389635606161091650
+    second: ROCoGames Pickups Transparent_13
+  - first:
+      213: -4306045448090273866
+    second: ROCoGames Pickups Transparent_14
+  - first:
+      213: -1971708723456640286
+    second: ROCoGames Pickups Transparent_15
+  - first:
+      213: 3367907289148927901
+    second: ROCoGames Pickups Transparent_16
+  - first:
+      213: -6451413796572211217
+    second: ROCoGames Pickups Transparent_17
+  - first:
+      213: -3730299487508728173
+    second: ROCoGames Pickups Transparent_18
+  - first:
+      213: -2374819454513454847
+    second: ROCoGames Pickups Transparent_19
+  - first:
+      213: 7429041535090996335
+    second: ROCoGames Pickups Transparent_20
+  - first:
+      213: -7020414309703433017
+    second: ROCoGames Pickups Transparent_21
+  - first:
+      213: 1766935934671508920
+    second: ROCoGames Pickups Transparent_22
+  - first:
+      213: -5471034298227913945
+    second: ROCoGames Pickups Transparent_23
+  - first:
+      213: -1820554516132580556
+    second: ROCoGames Pickups Transparent_24
+  - first:
+      213: -8643234474332842120
+    second: ROCoGames Pickups Transparent_25
+  - first:
+      213: -7790744747424015115
+    second: ROCoGames Pickups Transparent_26
+  - first:
+      213: -2574802406095122478
+    second: ROCoGames Pickups Transparent_27
+  - first:
+      213: -3327624526336038414
+    second: ROCoGames Pickups Transparent_28
+  - first:
+      213: 2417074222157495188
+    second: ROCoGames Pickups Transparent_29
+  - first:
+      213: 7420978977990828342
+    second: ROCoGames Pickups Transparent_30
+  - first:
+      213: 7322570059395612328
+    second: ROCoGames Pickups Transparent_31
+  - first:
+      213: 8805655347260504180
+    second: ROCoGames Pickups Transparent_32
+  - first:
+      213: 3426933973986407954
+    second: ROCoGames Pickups Transparent_33
+  - first:
+      213: 2810506619894804672
+    second: ROCoGames Pickups Transparent_34
+  - first:
+      213: 3285486022079618271
+    second: ROCoGames Pickups Transparent_35
+  - first:
+      213: 5830657367878818977
+    second: ROCoGames Pickups Transparent_36
+  - first:
+      213: 2057022665079550668
+    second: ROCoGames Pickups Transparent_37
+  - first:
+      213: -5536590982483619612
+    second: ROCoGames Pickups Transparent_38
+  - first:
+      213: -2960507320621839156
+    second: ROCoGames Pickups Transparent_39
+  - first:
+      213: -6383419172606234568
+    second: ROCoGames Pickups Transparent_40
+  - first:
+      213: -3146757889744118084
+    second: ROCoGames Pickups Transparent_41
+  - first:
+      213: -2483946169707107242
+    second: ROCoGames Pickups Transparent_42
+  - first:
+      213: -7202949072113130128
+    second: ROCoGames Pickups Transparent_43
+  - first:
+      213: 6677876353867961848
+    second: ROCoGames Pickups Transparent_44
+  - first:
+      213: 8295370421770813157
+    second: ROCoGames Pickups Transparent_45
+  - first:
+      213: 8140426492163446317
+    second: ROCoGames Pickups Transparent_46
+  - first:
+      213: -1309486662429596737
+    second: ROCoGames Pickups Transparent_47
+  - first:
+      213: -7496386311370481492
+    second: ROCoGames Pickups Transparent_48
+  - first:
+      213: 6489483737084623178
+    second: ROCoGames Pickups Transparent_49
+  - first:
+      213: -2336245118442498567
+    second: ROCoGames Pickups Transparent_50
+  - first:
+      213: 1747651644885002688
+    second: ROCoGames Pickups Transparent_51
+  - first:
+      213: 2601365304681687126
+    second: ROCoGames Pickups Transparent_52
+  - first:
+      213: -1105100554057279965
+    second: ROCoGames Pickups Transparent_53
+  - first:
+      213: -4097113662181496162
+    second: ROCoGames Pickups Transparent_54
+  - first:
+      213: 6273218972985529690
+    second: ROCoGames Pickups Transparent_55
+  - first:
+      213: 4202347705476878169
+    second: ROCoGames Pickups Transparent_56
+  - first:
+      213: -4745515321412342744
+    second: ROCoGames Pickups Transparent_57
+  - first:
+      213: 4039203159497724209
+    second: ROCoGames Pickups Transparent_58
+  - first:
+      213: 6225142207781932320
+    second: ROCoGames Pickups Transparent_59
+  - first:
+      213: -1069158397851144377
+    second: ROCoGames Pickups Transparent_60
+  - first:
+      213: 449601106086847887
+    second: ROCoGames Pickups Transparent_61
+  - first:
+      213: 3199156423561573351
+    second: ROCoGames Pickups Transparent_62
+  - first:
+      213: -8244442986159327329
+    second: ROCoGames Pickups Transparent_63
+  - first:
+      213: -5739746330508002842
+    second: ROCoGames Pickups Transparent_64
+  - first:
+      213: -8577167611460398478
+    second: ROCoGames Pickups Transparent_65
+  - first:
+      213: 3507997738903994489
+    second: ROCoGames Pickups Transparent_66
+  - first:
+      213: -2421809366943133842
+    second: ROCoGames Pickups Transparent_67
+  - first:
+      213: 4828734214627153714
+    second: ROCoGames Pickups Transparent_68
+  - first:
+      213: -8279257838068103922
+    second: ROCoGames Pickups Transparent_69
+  - first:
+      213: -4238555088079836135
+    second: ROCoGames Pickups Transparent_70
+  - first:
+      213: -4461151082867420998
+    second: ROCoGames Pickups Transparent_71
+  - first:
+      213: -880214305074444411
+    second: ROCoGames Pickups Transparent_72
+  - first:
+      213: 6979009471565560903
+    second: ROCoGames Pickups Transparent_73
+  - first:
+      213: -3384005716657664992
+    second: ROCoGames Pickups Transparent_74
+  - first:
+      213: -6567505248054075584
+    second: ROCoGames Pickups Transparent_75
+  - first:
+      213: 8204031802500994163
+    second: ROCoGames Pickups Transparent_76
+  - first:
+      213: -6482222861061422062
+    second: ROCoGames Pickups Transparent_77
+  - first:
+      213: -5141966299379572895
+    second: ROCoGames Pickups Transparent_78
+  - first:
+      213: -7988645541160799495
+    second: ROCoGames Pickups Transparent_79
+  - first:
+      213: -2182986306529398782
+    second: ROCoGames Pickups Transparent_80
+  - first:
+      213: 7370282727002546405
+    second: ROCoGames Pickups Transparent_81
+  - first:
+      213: -6767810874613187115
+    second: ROCoGames Pickups Transparent_82
+  - first:
+      213: 1915619787380972838
+    second: ROCoGames Pickups Transparent_83
+  - first:
+      213: 1480887321379649274
+    second: ROCoGames Pickups Transparent_84
+  - first:
+      213: 5785324556355388862
+    second: ROCoGames Pickups Transparent_85
+  - first:
+      213: 2308805517695616645
+    second: ROCoGames Pickups Transparent_86
+  - first:
+      213: -2998714707551859522
+    second: ROCoGames Pickups Transparent_87
+  - first:
+      213: 871876604793961133
+    second: ROCoGames Pickups Transparent_88
+  - first:
+      213: 5776442236577297823
+    second: ROCoGames Pickups Transparent_89
+  - first:
+      213: 881585080473316769
+    second: ROCoGames Pickups Transparent_90
+  - first:
+      213: -5602247310936656056
+    second: ROCoGames Pickups Transparent_91
+  - first:
+      213: 5395726505075987914
+    second: ROCoGames Pickups Transparent_92
+  - first:
+      213: 4553682016995423628
+    second: ROCoGames Pickups Transparent_93
+  - first:
+      213: 58280733953782030
+    second: ROCoGames Pickups Transparent_94
+  - first:
+      213: 4090686405275485976
+    second: ROCoGames Pickups Transparent_95
+  - first:
+      213: -698849740720719145
+    second: ROCoGames Pickups Transparent_96
+  - first:
+      213: -6688582686013703446
+    second: ROCoGames Pickups Transparent_97
+  - first:
+      213: -6883399111917187801
+    second: ROCoGames Pickups Transparent_98
+  - first:
+      213: -6408672125432567379
+    second: ROCoGames Pickups Transparent_99
+  - first:
+      213: 3999212039954956327
+    second: ROCoGames Pickups Transparent_100
+  - first:
+      213: 3060891795617349523
+    second: ROCoGames Pickups Transparent_101
+  - first:
+      213: 7851016934703632707
+    second: ROCoGames Pickups Transparent_102
+  - first:
+      213: 2943626605795410038
+    second: ROCoGames Pickups Transparent_103
+  - first:
+      213: -5627784418372619890
+    second: ROCoGames Pickups Transparent_104
+  - first:
+      213: 6979897084679675628
+    second: ROCoGames Pickups Transparent_105
+  - first:
+      213: 6565883916842115748
+    second: ROCoGames Pickups Transparent_106
+  - first:
+      213: -3231352832364592609
+    second: ROCoGames Pickups Transparent_107
+  - first:
+      213: -5401328410863023950
+    second: ROCoGames Pickups Transparent_108
+  - first:
+      213: 8517528973132863428
+    second: ROCoGames Pickups Transparent_109
+  - first:
+      213: -2967544575393951362
+    second: ROCoGames Pickups Transparent_110
+  - first:
+      213: 7640157059322728952
+    second: ROCoGames Pickups Transparent_111
+  - first:
+      213: -7769065015679094750
+    second: ROCoGames Pickups Transparent_112
+  - first:
+      213: -1002308903253804942
+    second: ROCoGames Pickups Transparent_113
+  - first:
+      213: 2007595496878370893
+    second: ROCoGames Pickups Transparent_114
+  - first:
+      213: 2990857576131769756
+    second: ROCoGames Pickups Transparent_115
+  - first:
+      213: -7962301972816040747
+    second: ROCoGames Pickups Transparent_116
+  - first:
+      213: -6096171542145125476
+    second: ROCoGames Pickups Transparent_117
+  - first:
+      213: 8243650807252507724
+    second: ROCoGames Pickups Transparent_118
+  - first:
+      213: -7688658215322484620
+    second: ROCoGames Pickups Transparent_119
+  - first:
+      213: 7231247103680685652
+    second: ROCoGames Pickups Transparent_120
+  - first:
+      213: 638160892931550403
+    second: ROCoGames Pickups Transparent_121
+  - first:
+      213: 3804877062671580894
+    second: ROCoGames Pickups Transparent_122
+  - first:
+      213: 9123237775608686980
+    second: ROCoGames Pickups Transparent_123
+  - first:
+      213: 3224865532402220568
+    second: ROCoGames Pickups Transparent_124
+  - first:
+      213: -7830825368568303748
+    second: ROCoGames Pickups Transparent_125
+  - first:
+      213: 3154510966169077734
+    second: ROCoGames Pickups Transparent_126
+  - first:
+      213: -8296553663200301372
+    second: ROCoGames Pickups Transparent_127
+  - first:
+      213: 8294534792420139085
+    second: ROCoGames Pickups Transparent_128
+  - first:
+      213: 2267129730883732739
+    second: ROCoGames Pickups Transparent_129
+  - first:
+      213: -1425730824697040337
+    second: ROCoGames Pickups Transparent_130
+  - first:
+      213: -2135322842602326078
+    second: ROCoGames Pickups Transparent_131
+  - first:
+      213: -3141285611645243121
+    second: ROCoGames Pickups Transparent_132
+  - first:
+      213: 965269024290161382
+    second: ROCoGames Pickups Transparent_133
+  - first:
+      213: -3994681310871035528
+    second: ROCoGames Pickups Transparent_134
+  - first:
+      213: -3821116720906631857
+    second: ROCoGames Pickups Transparent_135
+  - first:
+      213: 2328854311457700628
+    second: ROCoGames Pickups Transparent_136
+  - first:
+      213: -7590426994117157857
+    second: ROCoGames Pickups Transparent_137
+  - first:
+      213: -5062454446708958489
+    second: ROCoGames Pickups Transparent_138
+  - first:
+      213: -4435537316222468588
+    second: ROCoGames Pickups Transparent_139
+  - first:
+      213: 324087273931443747
+    second: ROCoGames Pickups Transparent_140
+  - first:
+      213: -9038355069403100937
+    second: ROCoGames Pickups Transparent_141
+  - first:
+      213: -4279259499949899188
+    second: ROCoGames Pickups Transparent_142
+  - first:
+      213: 4723887864027064085
+    second: ROCoGames Pickups Transparent_143
+  - first:
+      213: -3950739336928742799
+    second: ROCoGames Pickups Transparent_144
+  - first:
+      213: -7662334290041789790
+    second: ROCoGames Pickups Transparent_145
+  - first:
+      213: -8445510714040803648
+    second: ROCoGames Pickups Transparent_146
+  - first:
+      213: 6213877275546208616
+    second: ROCoGames Pickups Transparent_147
+  - first:
+      213: -1237857530047586691
+    second: ROCoGames Pickups Transparent_148
+  - first:
+      213: 6318127999422068723
+    second: ROCoGames Pickups Transparent_149
+  - first:
+      213: 2825243702433815802
+    second: ROCoGames Pickups Transparent_150
+  - first:
+      213: 7063416301850889294
+    second: ROCoGames Pickups Transparent_151
+  - first:
+      213: 6741758356055064322
+    second: ROCoGames Pickups Transparent_152
+  - first:
+      213: -1227111773239281923
+    second: ROCoGames Pickups Transparent_153
+  - first:
+      213: 4865540107629894209
+    second: ROCoGames Pickups Transparent_154
+  - first:
+      213: 7274692859179457843
+    second: ROCoGames Pickups Transparent_155
+  - first:
+      213: 8573247352398818611
+    second: ROCoGames Pickups Transparent_156
+  - first:
+      213: -5835620331504861819
+    second: ROCoGames Pickups Transparent_157
+  - first:
+      213: 4576309810736963342
+    second: ROCoGames Pickups Transparent_158
+  - first:
+      213: -188484063837170156
+    second: ROCoGames Pickups Transparent_159
+  - first:
+      213: 2885574987940437326
+    second: ROCoGames Pickups Transparent_160
+  - first:
+      213: -1994270673615098757
+    second: ROCoGames Pickups Transparent_161
+  - first:
+      213: 3416853611764759445
+    second: ROCoGames Pickups Transparent_162
+  - first:
+      213: 3237327325009360461
+    second: ROCoGames Pickups Transparent_163
+  - first:
+      213: -7051814363896105398
+    second: ROCoGames Pickups Transparent_164
+  - first:
+      213: -5513854029503510158
+    second: ROCoGames Pickups Transparent_165
+  - first:
+      213: 8111531332920455830
+    second: ROCoGames Pickups Transparent_166
+  - first:
+      213: -6646879181013369131
+    second: ROCoGames Pickups Transparent_167
+  - first:
+      213: -1919971049660289313
+    second: ROCoGames Pickups Transparent_168
+  - first:
+      213: -5797795820912565821
+    second: ROCoGames Pickups Transparent_169
+  - first:
+      213: -724723723103547599
+    second: ROCoGames Pickups Transparent_170
+  - first:
+      213: 4191973958219499586
+    second: ROCoGames Pickups Transparent_171
+  - first:
+      213: 2474691198853495951
+    second: ROCoGames Pickups Transparent_172
+  - first:
+      213: -4850402529163972981
+    second: ROCoGames Pickups Transparent_173
+  - first:
+      213: -1224211848770606977
+    second: ROCoGames Pickups Transparent_174
+  - first:
+      213: 5248190185043287904
+    second: ROCoGames Pickups Transparent_175
+  - first:
+      213: -1959581375959813789
+    second: ROCoGames Pickups Transparent_176
+  - first:
+      213: 347571340575281680
+    second: ROCoGames Pickups Transparent_177
+  - first:
+      213: -8925954120483112911
+    second: ROCoGames Pickups Transparent_178
+  - first:
+      213: 2904746753395884915
+    second: ROCoGames Pickups Transparent_179
+  - first:
+      213: 2102902673720925244
+    second: ROCoGames Pickups Transparent_180
+  - first:
+      213: -5004651032984226860
+    second: ROCoGames Pickups Transparent_181
+  - first:
+      213: -49962165503765163
+    second: ROCoGames Pickups Transparent_182
+  - first:
+      213: 4668273637446575774
+    second: ROCoGames Pickups Transparent_183
+  - first:
+      213: 7948990872472725545
+    second: ROCoGames Pickups Transparent_184
+  - first:
+      213: 8723943499423584829
+    second: ROCoGames Pickups Transparent_185
+  - first:
+      213: 6077346215200260058
+    second: ROCoGames Pickups Transparent_186
+  - first:
+      213: -6991357275311584213
+    second: ROCoGames Pickups Transparent_187
+  - first:
+      213: 1216351399297008194
+    second: ROCoGames Pickups Transparent_188
+  - first:
+      213: 6357026581638835168
+    second: ROCoGames Pickups Transparent_189
+  - first:
+      213: 4685906475544884363
+    second: ROCoGames Pickups Transparent_190
+  - first:
+      213: -3805096264370781126
+    second: ROCoGames Pickups Transparent_191
+  - first:
+      213: 6295104395515793937
+    second: ROCoGames Pickups Transparent_192
+  - first:
+      213: 5084147724735780146
+    second: ROCoGames Pickups Transparent_193
+  - first:
+      213: 524733693203732975
+    second: ROCoGames Pickups Transparent_194
+  - first:
+      213: -8211089395033212068
+    second: ROCoGames Pickups Transparent_195
+  - first:
+      213: -2746779055940183548
+    second: ROCoGames Pickups Transparent_196
+  - first:
+      213: 8066943349908688747
+    second: ROCoGames Pickups Transparent_197
+  - first:
+      213: -580410368885982724
+    second: ROCoGames Pickups Transparent_198
+  - first:
+      213: -3376387133267940170
+    second: ROCoGames Pickups Transparent_199
+  - first:
+      213: 3186242434909149778
+    second: ROCoGames Pickups Transparent_200
+  - first:
+      213: 2469592158361952480
+    second: ROCoGames Pickups Transparent_201
+  - first:
+      213: 1188785878299081984
+    second: ROCoGames Pickups Transparent_202
+  - first:
+      213: -6911653552967410231
+    second: ROCoGames Pickups Transparent_203
+  - first:
+      213: 157376661614482430
+    second: ROCoGames Pickups Transparent_204
+  - first:
+      213: -6038034924389829982
+    second: ROCoGames Pickups Transparent_205
+  - first:
+      213: 5002037417485366492
+    second: ROCoGames Pickups Transparent_206
+  - first:
+      213: 3798443740683279526
+    second: ROCoGames Pickups Transparent_207
+  - first:
+      213: -8443591384530115270
+    second: ROCoGames Pickups Transparent_208
+  - first:
+      213: 1594086200458219511
+    second: ROCoGames Pickups Transparent_209
+  - first:
+      213: 7335490312157162553
+    second: ROCoGames Pickups Transparent_210
+  - first:
+      213: 3569548491328172049
+    second: ROCoGames Pickups Transparent_211
+  - first:
+      213: 1806543837876186673
+    second: ROCoGames Pickups Transparent_212
+  - first:
+      213: 5683860921605310355
+    second: ROCoGames Pickups Transparent_213
+  - first:
+      213: -4605768487635455295
+    second: ROCoGames Pickups Transparent_214
+  - first:
+      213: 1600895124422632491
+    second: ROCoGames Pickups Transparent_215
+  - first:
+      213: 7908116656349376076
+    second: ROCoGames Pickups Transparent_216
+  - first:
+      213: -6653854481880443422
+    second: ROCoGames Pickups Transparent_217
+  - first:
+      213: 2441567113466275919
+    second: ROCoGames Pickups Transparent_218
+  - first:
+      213: 3728767369846439385
+    second: ROCoGames Pickups Transparent_219
+  - first:
+      213: 7148260944228017331
+    second: ROCoGames Pickups Transparent_220
+  - first:
+      213: -6500599795743924068
+    second: ROCoGames Pickups Transparent_221
+  - first:
+      213: -6552795196537821295
+    second: ROCoGames Pickups Transparent_222
+  - first:
+      213: 1505653988570150177
+    second: ROCoGames Pickups Transparent_223
+  - first:
+      213: -5082367072755789761
+    second: ROCoGames Pickups Transparent_224
+  - first:
+      213: -1339899098026742832
+    second: ROCoGames Pickups Transparent_225
+  - first:
+      213: 1122980351683561149
+    second: ROCoGames Pickups Transparent_226
+  - first:
+      213: 521875401266374993
+    second: ROCoGames Pickups Transparent_227
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1d65373cf766940800000000000000
+      internalID: 5289055289823646185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 305.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dafc4a729abdca0800000000000000
+      internalID: -5991008891552420523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 305.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d055daf34079d920800000000000000
+      internalID: 3015564862774661333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 305.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4df39b95ff1215a0800000000000000
+      internalID: -6552139368133034674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 305.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cabf807ea48c620800000000000000
+      internalID: 2794565924932004891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 305.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55ad9fbb1b275b30800000000000000
+      internalID: 4275933769390466395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 305.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cddfc3f116f32e0800000000000000
+      internalID: -2143888110809916314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 305.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9141a987ebe91b0800000000000000
+      internalID: -5647867457485661744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 305.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee09df41731f0b20800000000000000
+      internalID: 3102720045673418479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 305.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25ced67833267b60800000000000000
+      internalID: 7743415334729598255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65046d4449be9310800000000000000
+      internalID: 1413771036048229740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 289.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f101d0c3420c96060800000000000000
+      internalID: 6947295162054545439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 289.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a87e17dfd42b23e0800000000000000
+      internalID: -2077526259295946585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 289.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3988f57c507bce0800000000000000
+      internalID: -1389635606161091650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 289.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b734e7ba7add34c0800000000000000
+      internalID: -4306045448090273866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 289.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eaf3d1dc5513a4e0800000000000000
+      internalID: -1971708723456640286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fab26e5d53dbe20800000000000000
+      internalID: 3367907289148927901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 289.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe752444559f776a0800000000000000
+      internalID: -6451413796572211217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 289.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396783d41605b3cc0800000000000000
+      internalID: -3730299487508728173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 289.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101e908d942fa0fd0800000000000000
+      internalID: -2374819454513454847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64b8b85ae1491760800000000000000
+      internalID: 7429041535090996335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_21
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 273.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4ce0e816a729e90800000000000000
+      internalID: -7020414309703433017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 273.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5d7f6feda658810800000000000000
+      internalID: 1766935934671508920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 273.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b8524ea4bf214b0800000000000000
+      internalID: -5471034298227913945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 273.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4333fa330571cb6e0800000000000000
+      internalID: -1820554516132580556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 273.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8771bf61a001d0880800000000000000
+      internalID: -8643234474332842120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 273.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc1d0aede6b1e390800000000000000
+      internalID: -7790744747424015115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 273.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df01e18ad6744cd0800000000000000
+      internalID: -2574802406095122478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 273.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9ecd1bf17e1d1d0800000000000000
+      internalID: -3327624526336038414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 273.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b7377e23c2b8120800000000000000
+      internalID: 2417074222157495188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631e8ccff0d9cf660800000000000000
+      internalID: 7420978977990828342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_31
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 257.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aebf212caefe9560800000000000000
+      internalID: 7322570059395612328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 257.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4783bfb42e8f33a70800000000000000
+      internalID: 8805655347260504180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_33
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 257.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2167d2cea4aee8f20800000000000000
+      internalID: 3426933973986407954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0b6bd41ece00720800000000000000
+      internalID: 2810506619894804672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_35
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 257.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc119c3124689d20800000000000000
+      internalID: 3285486022079618271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 257.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac5e63ebf7aae050800000000000000
+      internalID: 5830657367878818977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 257.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc27efe17330c8c10800000000000000
+      internalID: 2057022665079550668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0de66e5d31a23b0800000000000000
+      internalID: -5536590982483619612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc446ff64a2ae6d0800000000000000
+      internalID: -2960507320621839156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 241.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8303364551a8967a0800000000000000
+      internalID: -6383419172606234568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 241.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbed4ab1f587454d0800000000000000
+      internalID: -3146757889744118084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 241.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c6a618e10478dd0800000000000000
+      internalID: -2483946169707107242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 241.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075a7755bfbf90c90800000000000000
+      internalID: -7202949072113130128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 241.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5d746b9259cac50800000000000000
+      internalID: 6677876353867961848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 241.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee7ee5a2731f1370800000000000000
+      internalID: 8295370421770813157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 241.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26d499c3ca98f070800000000000000
+      internalID: 8140426492163446317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3a5c781d4c3dde0800000000000000
+      internalID: -1309486662429596737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 225.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca069ab0e5c77f790800000000000000
+      internalID: -7496386311370481492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a497a9c73174f0a50800000000000000
+      internalID: 6489483737084623178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_50
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 225.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f59ef6517df39fd0800000000000000
+      internalID: -2336245118442498567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_51
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 225.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c96f7c59e7e04810800000000000000
+      internalID: 1747651644885002688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_52
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 225.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658e39446f7e91420800000000000000
+      internalID: 2601365304681687126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3261452b6e4e9a0f0800000000000000
+      internalID: -1105100554057279965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 225.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aa549e4d02427c0800000000000000
+      internalID: -4097113662181496162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a551b034b63fe0750800000000000000
+      internalID: 6273218972985529690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f80af19fcb15a30800000000000000
+      internalID: 4202347705476878169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c2b0f35fa842eb0800000000000000
+      internalID: -4745515321412342744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_58
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1315f797fd12e0830800000000000000
+      internalID: 4039203159497724209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d02231bd5246650800000000000000
+      internalID: 6225142207781932320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_60
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fe47f0a169921f0800000000000000
+      internalID: -1069158397851144377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_61
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85edeae2dd4d3600800000000000000
+      internalID: 449601106086847887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3fb4f31dfa56c20800000000000000
+      internalID: 3199156423561573351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f973307f8cad59d80800000000000000
+      internalID: -8244442986159327329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_64
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9f7357f135850b0800000000000000
+      internalID: -5739746330508002842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272daeb4087c7f880800000000000000
+      internalID: -8577167611460398478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_66
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9700f3c7b59eea030800000000000000
+      internalID: 3507997738903994489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_67
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f04a94631046ed0800000000000000
+      internalID: -2421809366943133842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23750a93f2c130340800000000000000
+      internalID: 4828734214627153714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 209.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0505169cda2a1d80800000000000000
+      internalID: -8279257838068103922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ca31eaa90ad25c0800000000000000
+      internalID: -4238555088079836135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 193.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab09650f9bec612c0800000000000000
+      internalID: -4461151082867420998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 193.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58702dbc0c9d8c3f0800000000000000
+      internalID: -880214305074444411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 193.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74c70c4532c6ad060800000000000000
+      internalID: 6979009471565560903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c8abcdab89901d0800000000000000
+      internalID: -3384005716657664992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 193.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f1935e5c88bd4a0800000000000000
+      internalID: -6567505248054075584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374541225739ad170800000000000000
+      internalID: 8204031802500994163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_77
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 193.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2148483f6a48a06a0800000000000000
+      internalID: -6482222861061422062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 193.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f537ed4e014a8b0800000000000000
+      internalID: -5141966299379572895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f23a9ab431a22190800000000000000
+      internalID: -7988645541160799495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 177.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200f5c9258974b1e0800000000000000
+      internalID: -2182986306529398782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 177.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e02f2d3711884660800000000000000
+      internalID: 7370282727002546405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 177.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddb7afedd7e312a0800000000000000
+      internalID: -6767810874613187115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_83
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 177.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d5d871c06a59a10800000000000000
+      internalID: 1915619787380972838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_84
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 177.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6b6373c2b2d8410800000000000000
+      internalID: 1480887321379649274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_85
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 177.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb548e3380a994050800000000000000
+      internalID: 5785324556355388862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_86
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 177.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58685b1c2668a0020800000000000000
+      internalID: 2308805517695616645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcc1a18cdc6266d0800000000000000
+      internalID: -2998714707551859522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_88
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daab7b41727891c00800000000000000
+      internalID: 871876604793961133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95b0c8fb9b0a2050800000000000000
+      internalID: 5776442236577297823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad65e8b5f40c3c00800000000000000
+      internalID: 881585080473316769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_91
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847bbbfa0c1d042b0800000000000000
+      internalID: -5602247310936656056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_92
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d6382ba871ea40800000000000000
+      internalID: 5395726505075987914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_93
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85b8130bade13f30800000000000000
+      internalID: 4553682016995423628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01709cc40e0fc000800000000000000
+      internalID: 58280733953782030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_95
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81707f9bc9905c830800000000000000
+      internalID: 4090686405275485976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dab7fc0ddf2d46f0800000000000000
+      internalID: -698849740720719145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea33551c716d23a0800000000000000
+      internalID: -6688582686013703446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_98
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dcfee3af04970a0800000000000000
+      internalID: -6883399111917187801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9e4a118a2df07a0800000000000000
+      internalID: -6408672125432567379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7200bfe592e008730800000000000000
+      internalID: 3999212039954956327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ffdadeed87a7a20800000000000000
+      internalID: 3060891795617349523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341169e3e4a64fc60800000000000000
+      internalID: 7851016934703632707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67003dd4dccd9d820800000000000000
+      internalID: 2943626605795410038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81fb6683e716e1b0800000000000000
+      internalID: -5627784418372619890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceedd1dda639dd060800000000000000
+      internalID: 6979897084679675628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a223d382a4be1b50800000000000000
+      internalID: 6565883916842115748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_107
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12c4fa28bde723d0800000000000000
+      internalID: -3231352832364592609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8c8438d60aa05b0800000000000000
+      internalID: -5401328410863023950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c79ea72977543670800000000000000
+      internalID: 8517528973132863428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7191807ee921d6d0800000000000000
+      internalID: -2967544575393951362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_111
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1df1dbd5a470a60800000000000000
+      internalID: 7640157059322728952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_112
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220788fc78cbe2490800000000000000
+      internalID: -7769065015679094750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_113
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278785aec551712f0800000000000000
+      internalID: -1002308903253804942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_114
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 145.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40fb1cb7796cdb10800000000000000
+      internalID: 2007595496878370893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95be178e19a18920800000000000000
+      internalID: 2990857576131769756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_116
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc68e3ba88308190800000000000000
+      internalID: -7962301972816040747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c933894084c066ba0800000000000000
+      internalID: -6096171542145125476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cd5a28bb4576270800000000000000
+      internalID: 8243650807252507724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_119
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4708054e6166c4590800000000000000
+      internalID: -7688658215322484620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_120
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456a5f19dec8a5460800000000000000
+      internalID: 7231247103680685652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_121
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc2bb473f33bd800800000000000000
+      internalID: 638160892931550403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_122
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede32968783adc430800000000000000
+      internalID: 3804877062671580894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_123
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489a4908b604c9e70800000000000000
+      internalID: 9123237775608686980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_124
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e3c3b9d1601cc20800000000000000
+      internalID: 3224865532402220568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f6e5811d1535390800000000000000
+      internalID: -7830825368568303748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_126
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 129.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7059aa20317cb20800000000000000
+      internalID: 3154510966169077734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ceeafc7668bcdc80800000000000000
+      internalID: -8296553663200301372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_128
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d402257827b1c1370800000000000000
+      internalID: 8294534792420139085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3054d0d7a76767f10800000000000000
+      internalID: 2267129730883732739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_130
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22bb986e59c63ce0800000000000000
+      internalID: -1425730824697040337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_131
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c739e5203fcd52e0800000000000000
+      internalID: -2135322842602326078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_132
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f6d32169e764d0800000000000000
+      internalID: -3141285611645243121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2c0893013556d00800000000000000
+      internalID: 965269024290161382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_134
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871e3a2338a0098c0800000000000000
+      internalID: -3994681310871035528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_135
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f450e05669aa8fac0800000000000000
+      internalID: -3821116720906631857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_136
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bb21058a0c15020800000000000000
+      internalID: 2328854311457700628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c5c1a5dd269a690800000000000000
+      internalID: -7590426994117157857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_138
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 113.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ead054b08c8eb9b0800000000000000
+      internalID: -5062454446708958489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_139
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ef196bf4ec172c0800000000000000
+      internalID: -4435537316222468588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_140
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 97.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e88e698a36f7400800000000000000
+      internalID: 324087273931443747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_141
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8806e93ff419280800000000000000
+      internalID: -9038355069403100937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_142
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 97.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4245c348240d94c0800000000000000
+      internalID: -4279259499949899188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_143
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517ac1eebfe9e8140800000000000000
+      internalID: 4723887864027064085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_144
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 97.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172333641872c29c0800000000000000
+      internalID: -3950739336928742799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_145
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2a3cb5f8be9a590800000000000000
+      internalID: -7662334290041789790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_146
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 97.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce97d670c48bca80800000000000000
+      internalID: -8445510714040803648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_147
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869cdc6a5702c3650800000000000000
+      internalID: 6213877275546208616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e98f6822f32dee0800000000000000
+      internalID: -1237857530047586691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_149
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 81.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7700bc0ff7ea750800000000000000
+      internalID: 6318127999422068723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_150
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 81.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc1a77bd28453720800000000000000
+      internalID: 2825243702433815802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_151
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 81.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c8684f3bb460260800000000000000
+      internalID: 7063416301850889294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 81.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ffe2661898f8d50800000000000000
+      internalID: 6741758356055064322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_153
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 81.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df67f50085c68fee0800000000000000
+      internalID: -1227111773239281923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 81.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a12bbf2fed58340800000000000000
+      internalID: 4865540107629894209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_155
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 81.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d5679cc96e4f460800000000000000
+      internalID: 7274692859179457843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_156
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 81.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d2a434b0b4af670800000000000000
+      internalID: 8573247352398818611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_157
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dfa981a36b30fa0800000000000000
+      internalID: -5835620331504861819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_158
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f9c1bc681528f30800000000000000
+      internalID: 4576309810736963342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_159
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416d9291ebe526df0800000000000000
+      internalID: -188484063837170156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_160
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d11f0c92f9b0820800000000000000
+      internalID: 2885574987940437326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_161
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c6131736de254e0800000000000000
+      internalID: -1994270673615098757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_162
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bbfb2b14a1b6f20800000000000000
+      internalID: 3416853611764759445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4639dccc0c4dec20800000000000000
+      internalID: 3237327325009360461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_164
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46b9f9b23ce22e90800000000000000
+      internalID: -7051814363896105398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_165
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279461c49fada73b0800000000000000
+      internalID: -5513854029503510158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_166
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692bc2345c2f19070800000000000000
+      internalID: 8111531332920455830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_167
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de32cef99a81c3a0800000000000000
+      internalID: -6646879181013369131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_168
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdee6f5b084ea55e0800000000000000
+      internalID: -1919971049660289313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_169
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1234e3b671a8fa0800000000000000
+      internalID: -5797795820912565821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_170
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f4d141d9341f5f0800000000000000
+      internalID: -724723723103547599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_171
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2488c5fda12ec2a30800000000000000
+      internalID: 4191973958219499586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_172
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cb27ca88ed75220800000000000000
+      internalID: 2474691198853495951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_173
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e66872998efacb0800000000000000
+      internalID: -4850402529163972981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_174
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7824384fc9b20fe0800000000000000
+      internalID: -1224211848770606977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_175
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f523dca2155d840800000000000000
+      internalID: 5248190185043287904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_176
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b171fe1b2ec4e0800000000000000
+      internalID: -1959581375959813789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_177
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0129811fa42d2d400800000000000000
+      internalID: 347571340575281680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_178
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1387b27e404a02480800000000000000
+      internalID: -8925954120483112911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37381ae38cbbf4820800000000000000
+      internalID: 2904746753395884915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_180
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cda5017d20f2d10800000000000000
+      internalID: 2102902673720925244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_181
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3fe2ab668eb8ab0800000000000000
+      internalID: -5004651032984226860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_182
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55550f8dcaf7e4ff0800000000000000
+      internalID: -49962165503765163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96e252c32a09c040800000000000000
+      internalID: 4668273637446575774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_184
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9282f8c351d705e60800000000000000
+      internalID: 7948990872472725545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_185
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3298bb246ca11970800000000000000
+      internalID: 8723943499423584829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_186
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf731efe22175450800000000000000
+      internalID: 6077346215200260058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_187
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 49.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cc5339995b9fe90800000000000000
+      internalID: -6991357275311584213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_188
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242c525372951e010800000000000000
+      internalID: 1216351399297008194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_189
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb6c4abef1b83850800000000000000
+      internalID: 6357026581638835168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_190
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b843e8dcc1fa70140800000000000000
+      internalID: 4685906475544884363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_191
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34830a9b15913bc0800000000000000
+      internalID: -3805096264370781126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_192
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11218b64814bc5750800000000000000
+      internalID: 6295104395515793937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_193
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2359c7e2b658e8640800000000000000
+      internalID: 5084147724735780146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_194
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe95619838a384700800000000000000
+      internalID: 524733693203732975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_195
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b711e03b95c0e80800000000000000
+      internalID: -8211089395033212068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ad33e600b71e9d0800000000000000
+      internalID: -2746779055940183548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_197
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fc18a7c3a83ff60800000000000000
+      internalID: 8066943349908688747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_198
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9f89a38d7f1f7f0800000000000000
+      internalID: -580410368885982724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_199
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 33.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc6d598ac9a421d0800000000000000
+      internalID: -3376387133267940170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a1905fc9ec73c20800000000000000
+      internalID: 3186242434909149778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_201
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0214bcbf0c54220800000000000000
+      internalID: 2469592158361952480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_202
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d7406357a6f7010800000000000000
+      internalID: 1188785878299081984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_203
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd9fcc86bfd410a0800000000000000
+      internalID: -6911653552967410231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_204
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3d77b6d3d1f2200800000000000000
+      internalID: 157376661614482430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_205
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a277562a37943ca0800000000000000
+      internalID: -6038034924389829982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_206
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd47d6e778eca6540800000000000000
+      internalID: 5002037417485366492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_207
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac9bb60578c6b430800000000000000
+      internalID: 3798443740683279526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_208
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35a8803f5652da80800000000000000
+      internalID: -8443591384530115270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_209
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff0aa714f45f1610800000000000000
+      internalID: 1594086200458219511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_210
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c6275e295ecc560800000000000000
+      internalID: 7335490312157162553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_211
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110b52ac075998130800000000000000
+      internalID: 3569548491328172049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_212
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 17.9
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ee7cf8c02221910800000000000000
+      internalID: 1806543837876186673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3974201d46121ee40800000000000000
+      internalID: 5683860921605310355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_214
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2fcc086f50510c0800000000000000
+      internalID: -4605768487635455295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_215
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24addd32a5873610800000000000000
+      internalID: 1600895124422632491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_216
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eed0033364fbd60800000000000000
+      internalID: 7908116656349376076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_217
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e510643a92c8a3a0800000000000000
+      internalID: -6653854481880443422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_218
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48ee6d8a5032e120800000000000000
+      internalID: 2441567113466275919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_219
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddb3c1ca2e3fb330800000000000000
+      internalID: 3728767369846439385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_220
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b46286a479b33360800000000000000
+      internalID: 7148260944228017331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_221
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90e4bb6dea39c5a0800000000000000
+      internalID: -6500599795743924068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_222
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1972a78ac7bcf05a0800000000000000
+      internalID: -6552795196537821295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_223
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125bf57435825e410800000000000000
+      internalID: 1505653988570150177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_224
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30df3a231ec779b0800000000000000
+      internalID: -5082367072755789761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_225
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbef339ed8b76de0800000000000000
+      internalID: -1339899098026742832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_226
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db687d71ea0a59f00800000000000000
+      internalID: 1122980351683561149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ROCoGames Pickups Transparent_227
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1.8999996
+        width: 16
+        height: 16.1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1592f7599e21e3700800000000000000
+      internalID: 521875401266374993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2 @@
+Blue Mage,Red Mage,Yellow Mage,Red Mage,Yellow Mage,Blue Mage
+

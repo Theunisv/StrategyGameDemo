@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d78ca4de92efa94780501359861d2d0, type: 3}
+  m_Name: ManaThief
+  m_EditorClassIdentifier: 
+  splName: Mana Thief
+  splSprite: {fileID: 21300000, guid: 3d0a2bc3a9518d943bf0ed6db46a34aa, type: 3}
+  splSound: {fileID: 8300000, guid: 5b6783b0e0d7dd445a101e4c9c690a95, type: 3}
+  splBaseCoolDown: 3
+  splRemainingCooldown: 0
+  canTargetAllies: 0
+  canTargetEnemies: 1
+  areaOfEffect: 0
+  splDescription: Steals mana from the target enemy and damages them in the process.
+  splManaCost: 0
+  spellRange: 4
+  splPrefab: {fileID: 0}
+  spellPower: 30
+  DebuffString: None
+  splDuration: 0
+  laserColor: {r: 1, g: 1, b: 1, a: 1}

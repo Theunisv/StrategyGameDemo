@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{e502a537-42dd-7ef6-054a-fe85e9d3a630}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "V_Animation", "V_Animation.csproj", "{53c2314e-168c-0430-e5cd-1234b5220726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{2138d8e3-8dcf-798e-4e05-df1ad3b30514}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{e502a537-42dd-7ef6-054a-fe85e9d3a630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e502a537-42dd-7ef6-054a-fe85e9d3a630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e502a537-42dd-7ef6-054a-fe85e9d3a630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{e502a537-42dd-7ef6-054a-fe85e9d3a630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53c2314e-168c-0430-e5cd-1234b5220726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53c2314e-168c-0430-e5cd-1234b5220726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53c2314e-168c-0430-e5cd-1234b5220726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53c2314e-168c-0430-e5cd-1234b5220726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2138d8e3-8dcf-798e-4e05-df1ad3b30514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2138d8e3-8dcf-798e-4e05-df1ad3b30514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2138d8e3-8dcf-798e-4e05-df1ad3b30514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2138d8e3-8dcf-798e-4e05-df1ad3b30514}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
